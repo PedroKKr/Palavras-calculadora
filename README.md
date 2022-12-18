@@ -10,7 +10,7 @@ Nomes de constantes (Ex.: *ALPHA, (-)* resulta em A)
 Funções e funcionalidades (Ex.: *SHIFT, nCr* resulta em P)
 - P, ANS
 
-Modo de regressão (Ex.: *MODE, REG, SHIFT, 2, →, →, 3* Entra no modo regressão e resulta em R)
+Modo de regressão (Ex.: *MODE, REG, 1, SHIFT, 2, →, →, 3* Entra no modo regressão e resulta em R)
 - R, N, SY, SX
 
 Números (Números suficientemente parecidos com letras Ex.: 1 e 0)
