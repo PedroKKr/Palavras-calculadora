@@ -1,7 +1,9 @@
 # Todas as palavras que podem ser escritas numa calculadora
 Um trabalho recreativo para listar todas as palavras que podem ser escritas em uma calculadora científica.
 
-O dicionário base utilizado foi: https://github.com/PedroKKr/portugues, e as palavras estão listadas em ordem decrescente de comprimento.
+O dicionário base utilizado foi: , e as palavras estão listadas em ordem decrescente de comprimento.
+- Calculadora_PTBR_1 utiliza como dicionário base https://github.com/PedroKKr/portugues (muito grande e, portanto, contém muitos termos que não são realmente *palavras*)
+- Calculadora_PTBR_2 utiliza como dicionário base https://www.ime.usp.br/~pf/dicios/ (contém palavras mais usuais)
 
 ## Letras ou sílabas possíveis de uso
 Nomes de constantes (Ex.: *ALPHA, (-)* resulta em A)
